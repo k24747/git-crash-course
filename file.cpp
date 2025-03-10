@@ -18,6 +18,12 @@ int sub(int a, int b){
     cout<<"Second New Feature"<<endl;
     return a-b;
 }
+int div(int a, int b){
+    cout<<"New Feature"<<endl;
+    cout<<"Second New Feature"<<endl;
+    return a/b;
+}
+
 
 
 int main(){
