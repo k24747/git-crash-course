@@ -8,5 +8,6 @@ using namespace std;
 int main(){
     //int num = add(5, 2);
     //cout << num << endl;
+    string a = "";
     return 0;
 }
