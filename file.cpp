@@ -7,11 +7,18 @@ int add(int a, int b){
     return a+b;
 }
 
+int mul(int a, int b){
+    cout<<"New Feature"<<endl;
+    cout<<"Second New Feature"<<endl;
+    return a*b;
+}
+
 int sub(int a, int b){
     cout<<"New Feature"<<endl;
     cout<<"Second New Feature"<<endl;
     return a-b;
 }
+
 
 int main(){
     //int num = add(5, 2);
