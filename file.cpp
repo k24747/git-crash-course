@@ -8,5 +8,6 @@ int add(int a, int b){
 int main(){
     //int num = add(5, 2);
     //cout << num << endl;
+    cout<<"New Feature"<<endl;
     return 0;
 }
