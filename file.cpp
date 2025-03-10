@@ -2,6 +2,8 @@
 using namespace std;
 
 int add(int a, int b){
+    cout<<"New Feature"<<endl;
+    cout<<"Second New Feature"<<endl;
     return a+b;
 }
 
