@@ -9,5 +9,6 @@ int main(){
     //int num = add(5, 2);
     //cout << num << endl;
     cout<<"New Feature"<<endl;
+    cout<<"Second New Feature"<<endl;
     return 0;
 }
